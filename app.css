@@ -1,0 +1,41 @@
+h1 {
+    background-color: #885A89;
+    margin: auto;
+    padding: 15px;
+    font-family: 'Oxygen';
+    color: #D1B490;
+}
+
+#todo-list {
+    list-style-type: none;
+    margin: auto;
+    padding: 15px;
+    background-color: #8AA8A1;
+    font-weight: bold;
+}
+
+li {
+    margin: auto;
+    padding: 1px;
+    text-align: left;
+    font-family: 'Noto Sans SC';
+    font-size: 20px;
+    color: white;
+}
+
+button {
+    background-color: #CBCBD4;
+    border: none;
+    color: white;
+    padding: 5px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+  form {
+      background-color: #EE7B30;
+      margin: auto;
+      padding: 15px;
+  }
